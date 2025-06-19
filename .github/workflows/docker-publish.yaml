@@ -27,4 +27,5 @@ jobs:
       with:
         context: .
         push: true
-        tags: yourdockerhubusername/k8s-gha-demo:latest
+        tags: rabidn/k8s-gha-demo:latest
+# nfjsdnfjnds
